@@ -22,7 +22,6 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
-<br>
 ## Links 
 <ul>
   <li><a href="https://ksjeeva.github.io/blog-preview-card-component/">Click Here</a></li>
