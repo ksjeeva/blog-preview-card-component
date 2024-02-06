@@ -25,5 +25,5 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 <br>
 ## Links 
 <ul>
-  <li><a href="">Click Here</a></li>
+  <li><a href="https://ksjeeva.github.io/blog-preview-card-component/">Click Here</a></li>
 </ul>
